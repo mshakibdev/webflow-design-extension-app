@@ -1,1 +1,1 @@
-# webflow-design-extension-app
+# webflow-design-extension-app-boilerplate
